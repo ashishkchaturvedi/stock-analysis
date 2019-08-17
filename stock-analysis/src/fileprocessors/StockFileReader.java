@@ -30,7 +30,6 @@ public class StockFileReader {
 	    }
 	}
 	/**
-	 * Complete the body of this method.
 	 * @return List
 	 * @throws IOException
 	 */

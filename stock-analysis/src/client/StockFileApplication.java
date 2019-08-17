@@ -20,8 +20,6 @@ public class StockFileApplication {
 		System.out.println(dataResult.size());
 	}
 	/**
-	 * Complete the method body so that it returns the given structure needed to 
-	 * populate the data field in the StockFileData class. 
 	 * @param headers
 	 * @param lines
 	 * @return List
