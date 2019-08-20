@@ -1,13 +1,13 @@
 package aggregators;
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 import java.util.List;
 
 public class MinAggregator extends Aggregator{
 
-	public MinAggregator(List<Double> numbers) {
+/*	public MinAggregator(List<Double> numbers) {
 		this.numbers = new ArrayList<Double>(numbers);
-	}
+	}*/
 
 	@Override
 	public double calculate() {

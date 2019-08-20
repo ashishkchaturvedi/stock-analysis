@@ -16,11 +16,11 @@ public class Application {
 		values.add(100.90);
 		values.add(98.76);
 		
-		Aggregator minValue = new MinAggregator(values.getValues());
+		//Aggregator minValue = new MinAggregator(values.getValues());
 				
-		double result = minValue.calculate();
+		//double result = minValue.calculate();
 		
-		System.out.println(result);
+		//System.out.println(result);
 		
 	}
 
